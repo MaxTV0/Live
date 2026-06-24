@@ -1,6 +1,4 @@
-
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=1165168,RESOLUTION=1280x720,CODECS="avc1.640020,mp4a.40.2"
 http://lookprotvappfree.mytunnel.org:8080/memfs/048033d6-fd58-4b62-bcf4-3c986a4ae089.m3u8
-
