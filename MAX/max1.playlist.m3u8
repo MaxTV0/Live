@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+# beIN MAX 1
+#EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=854x480
+https://stream.camcloud.stream/stream/e2c950491585/playlist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
+https://stream.camcloud.stream/stream/a22a12762b2f/playlist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
+https://stream.camcloud.stream/stream/d057920dccca/playlist.m3u8
