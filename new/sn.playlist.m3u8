@@ -1,0 +1,408 @@
+
+#EXTM3U
+#EXTINF:-1 group-title="OSN [VIP]",OSN ALYAWM
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20ALYAWM.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN ONE
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20ONE.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN YAHALA
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20YAHALA.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN YAHALA BIL3ARABI
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20YAHALA%20BIL3ARABI.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN MUSALSALAT
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20MUSALSALAT.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN YAHALA AFLAM
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20YAHALA%20AFLAM.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN ACTIONS
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20ACTIONS.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN COMEDY
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20COMEDY.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN CINEMA 1
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20CINEMA%201.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN CINEMA 2
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20CINEMA%202.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN ART AFLAM 1
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20ART%20AFLAM%201.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN ART AFLAM 2
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20ART%20AFLAM%202.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN ART CINEMA
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20ART%20CINEMA.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN ART HIKAYAT 1
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20ART%20HIKAYAT%201.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN ART HIKAYAT 2
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20ART%20HIKAYAT%202.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN ART
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20ART.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN ART MOVIES
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20ART%20MOVIES.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN NOW
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20NOW.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN FOX NEWS
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20FOX%20NEWS.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN FATAFEAT
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20FATAFEAT.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN FAN
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20FAN.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN SAFWAH
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20SAFWAH.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN ANIMAL PLANET
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20ANIMAL%20PLANET.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN NAT GEO WILD
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20NAT%20GEO%20WILD.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN NATIONAL GEOGRAPHIC AD
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20NATIONAL%20GEOGRAPHIC%20AD.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN DOCUMENTARY
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20DOCUMENTARY.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN DISCOVERY
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20DISCOVERY.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN DISCOVERY IDX
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20DISCOVERY%20IDX.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN HISTORY
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20HISTORY.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN MOTORVISION
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20MOTORVISION.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN GAME TOON
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20GAME%20TOON.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN ECLUTCH LIVE
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20ECLUTCH%20LIVE.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN ESPORT24
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20ESPORT24.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN MOVIES PREMIERE
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20MOVIES%20PREMIERE.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN MOVIES HOLLYWOOD
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20MOVIES%20HOLLYWOOD.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN MOVIES FAMILY
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20MOVIES%20FAMILY.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN MOVIES HORROR
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20MOVIES%20HORROR.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN CRIME
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20CRIME.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN SHOWCASE
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20SHOWCASE.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN SHOWCASE CLASSICS
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20SHOWCASE%20CLASSICS.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN NICK JR.
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20NICK%20JR..ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN NICKTOONS
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20NICKTOONS.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN KID ZONE TV
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20KID%20ZONE%20TV.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN NICKELODEON
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20NICKELODEON.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN KIDS
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20KIDS.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN MOONBUG KIDS
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20MOONBUG%20KIDS.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN CARTOON NETWORK
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20CARTOON%20NETWORK.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN MEZZE
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20MEZZE.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN TLC
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20TLC.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN E
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20E.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN BLOOMBERG
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20BLOOMBERG.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN C1
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20C1.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN MTV 00S
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20MTV%2000S.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN MTV LIVE
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20MTV%20LIVE.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN FASHION TV
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20FASHION%20TV.ts
+#EXTINF:-1 group-title="OSN [VIP]",OSN TFC
+https://foxtv-app-panel.yallakoora.org/stream/OSN%20TFC.ts
+#EXTINF:-1 group-title="ALWAN SPORTS [WORLDCUP]",ALWAN SPORT 1
+https://foxtv-app-panel.yallakoora.org/stream/ALWAN%20SPORT%201.ts
+#EXTINF:-1 group-title="ALWAN SPORTS [WORLDCUP]",ALWAN SPORT 2
+https://foxtv-app-panel.yallakoora.org/stream/ALWAN%20SPORT%202.ts
+#EXTINF:-1 group-title="ALWAN SPORTS [WORLDCUP]",ALWAN SPORT 3
+https://foxtv-app-panel.yallakoora.org/stream/ALWAN%20SPORT%203.ts
+#EXTINF:-1 group-title="ALWAN SPORTS [WORLDCUP]",ALWAN SPORT 4
+https://foxtv-app-panel.yallakoora.org/stream/ALWAN%20SPORT%204.ts
+#EXTINF:-1 group-title="ALWAN SPORTS [WORLDCUP]",ALWAN SPORT 5
+https://foxtv-app-panel.yallakoora.org/stream/ALWAN%20SPORT%205.ts
+#EXTINF:-1 group-title="ALWAN SPORTS [WORLDCUP]",ALWAN AFLAM 1
+https://foxtv-app-panel.yallakoora.org/stream/ALWAN%20AFLAM%201.ts
+#EXTINF:-1 group-title="ALWAN SPORTS [WORLDCUP]",ALWAN AFLAM 2
+https://foxtv-app-panel.yallakoora.org/stream/ALWAN%20AFLAM%202.ts
+#EXTINF:-1 group-title="ALWAN SPORTS [WORLDCUP]",ALWAN MOSALSALAT
+https://foxtv-app-panel.yallakoora.org/stream/ALWAN%20MOSALSALAT.ts
+#EXTINF:-1 group-title="ALWAN SPORTS [WORLDCUP]",ALWAN TURKEY
+https://foxtv-app-panel.yallakoora.org/stream/ALWAN%20TURKEY.ts
+#EXTINF:-1 group-title="QATAR [VIP]",QATAR
+https://foxtv-app-panel.yallakoora.org/stream/QATAR.ts
+#EXTINF:-1 group-title="QATAR [VIP]",QATAR 2
+https://foxtv-app-panel.yallakoora.org/stream/QATAR%202.ts
+#EXTINF:-1 group-title="QATAR [VIP]",BEIN MOVIES PREMIERE
+https://foxtv-app-panel.yallakoora.org/stream/BEIN%20MOVIES%20PREMIERE.ts
+#EXTINF:-1 group-title="QATAR [VIP]",BEIN MOVIES ACTIONS
+https://foxtv-app-panel.yallakoora.org/stream/BEIN%20MOVIES%20ACTIONS.ts
+#EXTINF:-1 group-title="QATAR [VIP]",BEIN MOVIES DRAMA
+https://foxtv-app-panel.yallakoora.org/stream/BEIN%20MOVIES%20DRAMA.ts
+#EXTINF:-1 group-title="QATAR [VIP]",BEIN MOVIES FAMILY
+https://foxtv-app-panel.yallakoora.org/stream/BEIN%20MOVIES%20FAMILY.ts
+#EXTINF:-1 group-title="QATAR [VIP]",BEIN DRAMA ARABIC
+https://foxtv-app-panel.yallakoora.org/stream/BEIN%20DRAMA%20ARABIC.ts
+#EXTINF:-1 group-title="QATAR [VIP]",BEIN SERIES 1
+https://foxtv-app-panel.yallakoora.org/stream/BEIN%20SERIES%201.ts
+#EXTINF:-1 group-title="QATAR [VIP]",BEIN SERIES 2
+https://foxtv-app-panel.yallakoora.org/stream/BEIN%20SERIES%202.ts
+#EXTINF:-1 group-title="QATAR [VIP]",BEIN FOX MOVIES
+https://foxtv-app-panel.yallakoora.org/stream/BEIN%20FOX%20MOVIES.ts
+#EXTINF:-1 group-title="QATAR [VIP]",BEIN FATAFEAT
+https://foxtv-app-panel.yallakoora.org/stream/BEIN%20FATAFEAT.ts
+#EXTINF:-1 group-title="QATAR [VIP]",BEIN TRAVEL
+https://foxtv-app-panel.yallakoora.org/stream/BEIN%20TRAVEL.ts
+#EXTINF:-1 group-title="QATAR [VIP]",AL JAZEERA QATAR [VIP]
+https://foxtv-app-panel.yallakoora.org/stream/AL%20JAZEERA%20QATAR%20%5BVIP%5D.ts
+#EXTINF:-1 group-title="QATAR [VIP]",ALJAZEERA DOCUMENTS
+https://foxtv-app-panel.yallakoora.org/stream/ALJAZEERA%20DOCUMENTS.ts
+#EXTINF:-1 group-title="QATAR [VIP]",AL ARABY TV
+https://foxtv-app-panel.yallakoora.org/stream/AL%20ARABY%20TV.ts
+#EXTINF:-1 group-title="QATAR [VIP]",AL ARABY 2
+https://foxtv-app-panel.yallakoora.org/stream/AL%20ARABY%202.ts
+#EXTINF:-1 group-title="QATAR [VIP]",AL RAYAN
+https://foxtv-app-panel.yallakoora.org/stream/AL%20RAYAN.ts
+#EXTINF:-1 group-title="QATAR [VIP]",AL RAYYAN ALQADEEM
+https://foxtv-app-panel.yallakoora.org/stream/AL%20RAYYAN%20ALQADEEM.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",BEIN MAX 1 HD
+https://foxtv-app-panel.yallakoora.org/stream/BEIN%20MAX%201%20HD.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",BEIN MAX 1 **
+https://foxtv-app-panel.yallakoora.org/stream/BEIN%20MAX%201%20**.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",BEIN MAX 2 HD
+https://foxtv-app-panel.yallakoora.org/stream/BEIN%20MAX%202%20HD.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",BEIN MAX 2 **
+https://foxtv-app-panel.yallakoora.org/stream/BEIN%20MAX%202%20**.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",BEIN MAX 3
+https://foxtv-app-panel.yallakoora.org/stream/BEIN%20MAX%203.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",BEIN MAX 3*
+https://foxtv-app-panel.yallakoora.org/stream/BEIN%20MAX%203*.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",ONE SOCCER
+https://foxtv-app-panel.yallakoora.org/stream/ONE%20SOCCER.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",ZIGGO SPORT
+https://foxtv-app-panel.yallakoora.org/stream/ZIGGO%20SPORT.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",FOX SPORTS 1
+https://foxtv-app-panel.yallakoora.org/stream/FOX%20SPORTS%201.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",FOX SPORTS 2
+https://foxtv-app-panel.yallakoora.org/stream/FOX%20SPORTS%202.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",TNT SPORTS 1
+https://foxtv-app-panel.yallakoora.org/stream/TNT%20SPORTS%201.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",TNT SPORTS 2
+https://foxtv-app-panel.yallakoora.org/stream/TNT%20SPORTS%202.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",TNT SPORTS 3
+https://foxtv-app-panel.yallakoora.org/stream/TNT%20SPORTS%203.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",TNT SPORTS 4
+https://foxtv-app-panel.yallakoora.org/stream/TNT%20SPORTS%204.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",ESPN 1
+https://foxtv-app-panel.yallakoora.org/stream/ESPN%201.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",ESPN 2
+https://foxtv-app-panel.yallakoora.org/stream/ESPN%202.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Mexico vs South Africa [2026-06-11 21:00]
+https://foxtv-app-panel.yallakoora.org/stream/Mexico%20vs%20South%20Africa%20%5B2026-06-11%2021%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Korea Republic vs Czech Republic [2026-06-12 03:00]
+https://foxtv-app-panel.yallakoora.org/stream/Korea%20Republic%20vs%20Czech%20Republic%20%5B2026-06-12%2003%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Canada vs Bosnia and Herzegovina [2026-06-12 21:00]
+https://foxtv-app-panel.yallakoora.org/stream/Canada%20vs%20Bosnia%20and%20Herzegovina%20%5B2026-06-12%2021%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",USA vs Paraguay [2026-06-13 03:00]
+https://foxtv-app-panel.yallakoora.org/stream/USA%20vs%20Paraguay%20%5B2026-06-13%2003%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Australia vs Turkey [2026-06-14 06:00]
+https://foxtv-app-panel.yallakoora.org/stream/Australia%20vs%20Turkey%20%5B2026-06-14%2006%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Qatar vs Switzerland [2026-06-13 21:00]
+https://foxtv-app-panel.yallakoora.org/stream/Qatar%20vs%20Switzerland%20%5B2026-06-13%2021%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Brazil vs Morocco [2026-06-14 00:00]
+https://foxtv-app-panel.yallakoora.org/stream/Brazil%20vs%20Morocco%20%5B2026-06-14%2000%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Haiti vs Scotland [2026-06-14 03:00]
+https://foxtv-app-panel.yallakoora.org/stream/Haiti%20vs%20Scotland%20%5B2026-06-14%2003%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Germany vs Curacao [2026-06-14 19:00]
+https://foxtv-app-panel.yallakoora.org/stream/Germany%20vs%20Curacao%20%5B2026-06-14%2019%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Netherlands vs Japan [2026-06-14 22:00]
+https://foxtv-app-panel.yallakoora.org/stream/Netherlands%20vs%20Japan%20%5B2026-06-14%2022%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Ivory Coast vs Ecuador [2026-06-15 01:00]
+https://foxtv-app-panel.yallakoora.org/stream/Ivory%20Coast%20vs%20Ecuador%20%5B2026-06-15%2001%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Sweden vs Tunisia [2026-06-15 04:00]
+https://foxtv-app-panel.yallakoora.org/stream/Sweden%20vs%20Tunisia%20%5B2026-06-15%2004%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Spain vs Cape Verde [2026-06-15 18:00]
+https://foxtv-app-panel.yallakoora.org/stream/Spain%20vs%20Cape%20Verde%20%5B2026-06-15%2018%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Belgium vs Egypt [2026-06-15 21:00]
+https://foxtv-app-panel.yallakoora.org/stream/Belgium%20vs%20Egypt%20%5B2026-06-15%2021%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Saudi Arabia vs Uruguay [2026-06-16 00:00]
+https://foxtv-app-panel.yallakoora.org/stream/Saudi%20Arabia%20vs%20Uruguay%20%5B2026-06-16%2000%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Iran vs New Zealand [2026-06-16 03:00]
+https://foxtv-app-panel.yallakoora.org/stream/Iran%20vs%20New%20Zealand%20%5B2026-06-16%2003%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",France vs Senegal [2026-06-16 21:00]
+https://foxtv-app-panel.yallakoora.org/stream/France%20vs%20Senegal%20%5B2026-06-16%2021%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Iraq vs Norway [2026-06-17 00:00]
+https://foxtv-app-panel.yallakoora.org/stream/Iraq%20vs%20Norway%20%5B2026-06-17%2000%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Argentina vs Algeria [2026-06-17 03:00]
+https://foxtv-app-panel.yallakoora.org/stream/Argentina%20vs%20Algeria%20%5B2026-06-17%2003%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Austria vs Jordan [2026-06-17 06:00]
+https://foxtv-app-panel.yallakoora.org/stream/Austria%20vs%20Jordan%20%5B2026-06-17%2006%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Portugal vs DR Congo [2026-06-17 19:00]
+https://foxtv-app-panel.yallakoora.org/stream/Portugal%20vs%20DR%20Congo%20%5B2026-06-17%2019%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",England vs Croatia [2026-06-17 22:00]
+https://foxtv-app-panel.yallakoora.org/stream/England%20vs%20Croatia%20%5B2026-06-17%2022%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Ghana vs Panama [2026-06-18 01:00]
+https://foxtv-app-panel.yallakoora.org/stream/Ghana%20vs%20Panama%20%5B2026-06-18%2001%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Uzbekistan vs Colombia [2026-06-18 04:00]
+https://foxtv-app-panel.yallakoora.org/stream/Uzbekistan%20vs%20Colombia%20%5B2026-06-18%2004%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",South Africa vs Czech Republic [2026-06-18 18:00]
+https://foxtv-app-panel.yallakoora.org/stream/South%20Africa%20vs%20Czech%20Republic%20%5B2026-06-18%2018%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Switzerland vs Bosnia and Herzegovina [2026-06-18 21:00]
+https://foxtv-app-panel.yallakoora.org/stream/Switzerland%20vs%20Bosnia%20and%20Herzegovina%20%5B2026-06-18%2021%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Canada vs Qatar [2026-06-19 00:00]
+https://foxtv-app-panel.yallakoora.org/stream/Canada%20vs%20Qatar%20%5B2026-06-19%2000%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Mexico vs Korea Republic [2026-06-19 03:00]
+https://foxtv-app-panel.yallakoora.org/stream/Mexico%20vs%20Korea%20Republic%20%5B2026-06-19%2003%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",USA vs Australia [2026-06-19 21:00]
+https://foxtv-app-panel.yallakoora.org/stream/USA%20vs%20Australia%20%5B2026-06-19%2021%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Scotland vs Morocco [2026-06-20 00:00]
+https://foxtv-app-panel.yallakoora.org/stream/Scotland%20vs%20Morocco%20%5B2026-06-20%2000%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Brazil vs Haiti [2026-06-20 02:30]
+https://foxtv-app-panel.yallakoora.org/stream/Brazil%20vs%20Haiti%20%5B2026-06-20%2002%3A30%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Turkey vs Paraguay [2026-06-20 05:00]
+https://foxtv-app-panel.yallakoora.org/stream/Turkey%20vs%20Paraguay%20%5B2026-06-20%2005%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Netherlands vs Sweden [2026-06-20 19:00]
+https://foxtv-app-panel.yallakoora.org/stream/Netherlands%20vs%20Sweden%20%5B2026-06-20%2019%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Germany vs Ivory Coast [2026-06-20 22:00]
+https://foxtv-app-panel.yallakoora.org/stream/Germany%20vs%20Ivory%20Coast%20%5B2026-06-20%2022%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Ecuador vs Curacao [2026-06-21 02:00]
+https://foxtv-app-panel.yallakoora.org/stream/Ecuador%20vs%20Curacao%20%5B2026-06-21%2002%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Tunisia vs Japan [2026-06-21 06:00]
+https://foxtv-app-panel.yallakoora.org/stream/Tunisia%20vs%20Japan%20%5B2026-06-21%2006%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Spain vs Saudi Arabia [2026-06-21 18:00]
+https://foxtv-app-panel.yallakoora.org/stream/Spain%20vs%20Saudi%20Arabia%20%5B2026-06-21%2018%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Belgium vs Iran [2026-06-21 21:00]
+https://foxtv-app-panel.yallakoora.org/stream/Belgium%20vs%20Iran%20%5B2026-06-21%2021%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Uruguay vs Cape Verde [2026-06-22 00:00]
+https://foxtv-app-panel.yallakoora.org/stream/Uruguay%20vs%20Cape%20Verde%20%5B2026-06-22%2000%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",New Zealand vs Egypt [2026-06-22 03:00]
+https://foxtv-app-panel.yallakoora.org/stream/New%20Zealand%20vs%20Egypt%20%5B2026-06-22%2003%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Argentina vs Austria [2026-06-22 19:00]
+https://foxtv-app-panel.yallakoora.org/stream/Argentina%20vs%20Austria%20%5B2026-06-22%2019%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",France vs Iraq [2026-06-22 23:00]
+https://foxtv-app-panel.yallakoora.org/stream/France%20vs%20Iraq%20%5B2026-06-22%2023%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Norway vs Senegal [2026-06-23 02:00]
+https://foxtv-app-panel.yallakoora.org/stream/Norway%20vs%20Senegal%20%5B2026-06-23%2002%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Jordan vs Algeria [2026-06-23 05:00]
+https://foxtv-app-panel.yallakoora.org/stream/Jordan%20vs%20Algeria%20%5B2026-06-23%2005%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Portugal vs Uzbekistan [2026-06-23 19:00]
+https://foxtv-app-panel.yallakoora.org/stream/Portugal%20vs%20Uzbekistan%20%5B2026-06-23%2019%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",England vs Ghana [2026-06-23 22:00]
+https://foxtv-app-panel.yallakoora.org/stream/England%20vs%20Ghana%20%5B2026-06-23%2022%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Panama vs Croatia [2026-06-24 01:00]
+https://foxtv-app-panel.yallakoora.org/stream/Panama%20vs%20Croatia%20%5B2026-06-24%2001%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Colombia vs DR Congo [2026-06-24 04:00]
+https://foxtv-app-panel.yallakoora.org/stream/Colombia%20vs%20DR%20Congo%20%5B2026-06-24%2004%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Switzerland vs Canada [2026-06-24 21:00]
+https://foxtv-app-panel.yallakoora.org/stream/Switzerland%20vs%20Canada%20%5B2026-06-24%2021%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Bosnia and Herzegovina vs Qatar [2026-06-24 21:00]
+https://foxtv-app-panel.yallakoora.org/stream/Bosnia%20and%20Herzegovina%20vs%20Qatar%20%5B2026-06-24%2021%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Scotland vs Brazil [2026-06-25 00:00]
+https://foxtv-app-panel.yallakoora.org/stream/Scotland%20vs%20Brazil%20%5B2026-06-25%2000%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Morocco vs Haiti [2026-06-25 00:00]
+https://foxtv-app-panel.yallakoora.org/stream/Morocco%20vs%20Haiti%20%5B2026-06-25%2000%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Czech Republic vs Mexico [2026-06-25 03:00]
+https://foxtv-app-panel.yallakoora.org/stream/Czech%20Republic%20vs%20Mexico%20%5B2026-06-25%2003%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",South Africa vs Korea Republic [2026-06-25 03:00]
+https://foxtv-app-panel.yallakoora.org/stream/South%20Africa%20vs%20Korea%20Republic%20%5B2026-06-25%2003%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Ecuador vs Germany [2026-06-25 22:00]
+https://foxtv-app-panel.yallakoora.org/stream/Ecuador%20vs%20Germany%20%5B2026-06-25%2022%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Curacao vs Ivory Coast [2026-06-25 22:00]
+https://foxtv-app-panel.yallakoora.org/stream/Curacao%20vs%20Ivory%20Coast%20%5B2026-06-25%2022%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Tunisia vs Netherlands [2026-06-26 01:00]
+https://foxtv-app-panel.yallakoora.org/stream/Tunisia%20vs%20Netherlands%20%5B2026-06-26%2001%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Japan vs Sweden [2026-06-26 01:00]
+https://foxtv-app-panel.yallakoora.org/stream/Japan%20vs%20Sweden%20%5B2026-06-26%2001%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Turkey vs USA [2026-06-26 04:00]
+https://foxtv-app-panel.yallakoora.org/stream/Turkey%20vs%20USA%20%5B2026-06-26%2004%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Paraguay vs Australia [2026-06-26 04:00]
+https://foxtv-app-panel.yallakoora.org/stream/Paraguay%20vs%20Australia%20%5B2026-06-26%2004%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Norway vs France [2026-06-26 21:00]
+https://foxtv-app-panel.yallakoora.org/stream/Norway%20vs%20France%20%5B2026-06-26%2021%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Senegal vs Iraq [2026-06-26 21:00]
+https://foxtv-app-panel.yallakoora.org/stream/Senegal%20vs%20Iraq%20%5B2026-06-26%2021%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Uruguay vs Spain [2026-06-27 02:00]
+https://foxtv-app-panel.yallakoora.org/stream/Uruguay%20vs%20Spain%20%5B2026-06-27%2002%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Cape Verde vs Saudi Arabia [2026-06-27 02:00]
+https://foxtv-app-panel.yallakoora.org/stream/Cape%20Verde%20vs%20Saudi%20Arabia%20%5B2026-06-27%2002%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Egypt vs Iran [2026-06-27 05:00]
+https://foxtv-app-panel.yallakoora.org/stream/Egypt%20vs%20Iran%20%5B2026-06-27%2005%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",New Zealand vs Belgium [2026-06-27 05:00]
+https://foxtv-app-panel.yallakoora.org/stream/New%20Zealand%20vs%20Belgium%20%5B2026-06-27%2005%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Panama vs England [2026-06-27 23:00]
+https://foxtv-app-panel.yallakoora.org/stream/Panama%20vs%20England%20%5B2026-06-27%2023%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Croatia vs Ghana [2026-06-27 23:00]
+https://foxtv-app-panel.yallakoora.org/stream/Croatia%20vs%20Ghana%20%5B2026-06-27%2023%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Colombia vs Portugal [2026-06-28 01:30]
+https://foxtv-app-panel.yallakoora.org/stream/Colombia%20vs%20Portugal%20%5B2026-06-28%2001%3A30%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",DR Congo vs Uzbekistan [2026-06-28 01:30]
+https://foxtv-app-panel.yallakoora.org/stream/DR%20Congo%20vs%20Uzbekistan%20%5B2026-06-28%2001%3A30%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Algeria vs Austria [2026-06-28 04:00]
+https://foxtv-app-panel.yallakoora.org/stream/Algeria%20vs%20Austria%20%5B2026-06-28%2004%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",Jordan vs Argentina [2026-06-28 04:00]
+https://foxtv-app-panel.yallakoora.org/stream/Jordan%20vs%20Argentina%20%5B2026-06-28%2004%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",[Round of 32] Runner-up Group A vs Runner-up Group B [2026-06-28 21:00]
+https://foxtv-app-panel.yallakoora.org/stream/%5BRound%20of%2032%5D%20Runner-up%20Group%20A%20vs%20Runner-up%20Group%20B%20%5B2026-06-28%2021%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",[Round of 32] Winner Group E vs 3rd A/B/C/D/F [2026-06-29 22:30]
+https://foxtv-app-panel.yallakoora.org/stream/%5BRound%20of%2032%5D%20Winner%20Group%20E%20vs%203rd%20A%2FB%2FC%2FD%2FF%20%5B2026-06-29%2022%3A30%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",[Round of 32] Winner Group F vs Runner-up Group C [2026-06-30 03:00]
+https://foxtv-app-panel.yallakoora.org/stream/%5BRound%20of%2032%5D%20Winner%20Group%20F%20vs%20Runner-up%20Group%20C%20%5B2026-06-30%2003%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",[Round of 32] Winner Group C vs Runner-up Group F [2026-06-29 19:00]
+https://foxtv-app-panel.yallakoora.org/stream/%5BRound%20of%2032%5D%20Winner%20Group%20C%20vs%20Runner-up%20Group%20F%20%5B2026-06-29%2019%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",[Round of 32] Winner Group I vs 3rd C/D/F/G/H [2026-06-30 21:00]
+https://foxtv-app-panel.yallakoora.org/stream/%5BRound%20of%2032%5D%20Winner%20Group%20I%20vs%203rd%20C%2FD%2FF%2FG%2FH%20%5B2026-06-30%2021%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",[Round of 32] Runner-up Group E vs Runner-up Group I [2026-06-30 19:00]
+https://foxtv-app-panel.yallakoora.org/stream/%5BRound%20of%2032%5D%20Runner-up%20Group%20E%20vs%20Runner-up%20Group%20I%20%5B2026-06-30%2019%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",[Round of 32] Winner Group A vs 3rd C/E/F/H/I [2026-07-01 03:00]
+https://foxtv-app-panel.yallakoora.org/stream/%5BRound%20of%2032%5D%20Winner%20Group%20A%20vs%203rd%20C%2FE%2FF%2FH%2FI%20%5B2026-07-01%2003%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",[Round of 32] Winner Group L vs 3rd E/H/I/J/K [2026-07-01 18:00]
+https://foxtv-app-panel.yallakoora.org/stream/%5BRound%20of%2032%5D%20Winner%20Group%20L%20vs%203rd%20E%2FH%2FI%2FJ%2FK%20%5B2026-07-01%2018%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",[Round of 32] Winner Group D vs 3rd B/E/F/I/J [2026-07-01 21:00]
+https://foxtv-app-panel.yallakoora.org/stream/%5BRound%20of%2032%5D%20Winner%20Group%20D%20vs%203rd%20B%2FE%2FF%2FI%2FJ%20%5B2026-07-01%2021%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",[Round of 32] Winner Group G vs 3rd A/B/E/I/J [2026-07-01 22:30]
+https://foxtv-app-panel.yallakoora.org/stream/%5BRound%20of%2032%5D%20Winner%20Group%20G%20vs%203rd%20A%2FB%2FE%2FI%2FJ%20%5B2026-07-01%2022%3A30%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",[Round of 32] Winner Group B vs 3rd E/F/G/I/J [2026-07-02 03:00]
+https://foxtv-app-panel.yallakoora.org/stream/%5BRound%20of%2032%5D%20Winner%20Group%20B%20vs%203rd%20E%2FF%2FG%2FI%2FJ%20%5B2026-07-02%2003%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",[Round of 32] Winner Group H vs Runner-up Group J [2026-07-02 18:00]
+https://foxtv-app-panel.yallakoora.org/stream/%5BRound%20of%2032%5D%20Winner%20Group%20H%20vs%20Runner-up%20Group%20J%20%5B2026-07-02%2018%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",[Round of 32] Winner Group J vs Runner-up Group H [2026-07-02 21:00]
+https://foxtv-app-panel.yallakoora.org/stream/%5BRound%20of%2032%5D%20Winner%20Group%20J%20vs%20Runner-up%20Group%20H%20%5B2026-07-02%2021%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",[Round of 32] Winner Group K vs Runner-up Group L [2026-07-03 01:00]
+https://foxtv-app-panel.yallakoora.org/stream/%5BRound%20of%2032%5D%20Winner%20Group%20K%20vs%20Runner-up%20Group%20L%20%5B2026-07-03%2001%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",[Round of 32] Winner Group H vs 3rd A/C/D/E/F [2026-07-03 18:00]
+https://foxtv-app-panel.yallakoora.org/stream/%5BRound%20of%2032%5D%20Winner%20Group%20H%20vs%203rd%20A%2FC%2FD%2FE%2FF%20%5B2026-07-03%2018%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",[Round of 32] Runner-up Group K vs Runner-up Group J [2026-07-03 21:00]
+https://foxtv-app-panel.yallakoora.org/stream/%5BRound%20of%2032%5D%20Runner-up%20Group%20K%20vs%20Runner-up%20Group%20J%20%5B2026-07-03%2021%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",[Round of 16] Match 73 Winner vs Match 75 Winner [2026-07-04 18:00]
+https://foxtv-app-panel.yallakoora.org/stream/%5BRound%20of%2016%5D%20Match%2073%20Winner%20vs%20Match%2075%20Winner%20%5B2026-07-04%2018%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",[Round of 16] Match 76 Winner vs Match 77 Winner [2026-07-04 21:00]
+https://foxtv-app-panel.yallakoora.org/stream/%5BRound%20of%2016%5D%20Match%2076%20Winner%20vs%20Match%2077%20Winner%20%5B2026-07-04%2021%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",[Round of 16] Match 72 Winner vs Match 74 Winner [2026-07-05 01:00]
+https://foxtv-app-panel.yallakoora.org/stream/%5BRound%20of%2016%5D%20Match%2072%20Winner%20vs%20Match%2074%20Winner%20%5B2026-07-05%2001%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",[Round of 16] Match 78 Winner vs Match 79 Winner [2026-07-05 18:00]
+https://foxtv-app-panel.yallakoora.org/stream/%5BRound%20of%2016%5D%20Match%2078%20Winner%20vs%20Match%2079%20Winner%20%5B2026-07-05%2018%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",[Round of 16] Match 80 Winner vs Match 81 Winner [2026-07-05 21:00]
+https://foxtv-app-panel.yallakoora.org/stream/%5BRound%20of%2016%5D%20Match%2080%20Winner%20vs%20Match%2081%20Winner%20%5B2026-07-05%2021%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",[Round of 16] Match 82 Winner vs Match 83 Winner [2026-07-06 01:00]
+https://foxtv-app-panel.yallakoora.org/stream/%5BRound%20of%2016%5D%20Match%2082%20Winner%20vs%20Match%2083%20Winner%20%5B2026-07-06%2001%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",[Round of 16] Match 84 Winner vs Match 85 Winner [2026-07-06 18:00]
+https://foxtv-app-panel.yallakoora.org/stream/%5BRound%20of%2016%5D%20Match%2084%20Winner%20vs%20Match%2085%20Winner%20%5B2026-07-06%2018%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",[Round of 16] Match 71 Winner vs Match 86 Winner [2026-07-07 01:00]
+https://foxtv-app-panel.yallakoora.org/stream/%5BRound%20of%2016%5D%20Match%2071%20Winner%20vs%20Match%2086%20Winner%20%5B2026-07-07%2001%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",[Quarter-final] Match 86 Winner vs Match 87 Winner [2026-07-09 21:00]
+https://foxtv-app-panel.yallakoora.org/stream/%5BQuarter-final%5D%20Match%2086%20Winner%20vs%20Match%2087%20Winner%20%5B2026-07-09%2021%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",[Quarter-final] Match 88 Winner vs Match 89 Winner [2026-07-10 01:00]
+https://foxtv-app-panel.yallakoora.org/stream/%5BQuarter-final%5D%20Match%2088%20Winner%20vs%20Match%2089%20Winner%20%5B2026-07-10%2001%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",[Quarter-final] Match 90 Winner vs Match 91 Winner [2026-07-10 21:00]
+https://foxtv-app-panel.yallakoora.org/stream/%5BQuarter-final%5D%20Match%2090%20Winner%20vs%20Match%2091%20Winner%20%5B2026-07-10%2021%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",[Quarter-final] Match 92 Winner vs Match 93 Winner [2026-07-11 01:00]
+https://foxtv-app-panel.yallakoora.org/stream/%5BQuarter-final%5D%20Match%2092%20Winner%20vs%20Match%2093%20Winner%20%5B2026-07-11%2001%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",[Semi-final] Match 94 Winner vs Match 95 Winner [2026-07-14 22:00]
+https://foxtv-app-panel.yallakoora.org/stream/%5BSemi-final%5D%20Match%2094%20Winner%20vs%20Match%2095%20Winner%20%5B2026-07-14%2022%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",[Semi-final] Match 96 Winner vs Match 97 Winner [2026-07-15 22:00]
+https://foxtv-app-panel.yallakoora.org/stream/%5BSemi-final%5D%20Match%2096%20Winner%20vs%20Match%2097%20Winner%20%5B2026-07-15%2022%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",[Third place play-off] Match 98 Loser vs Match 99 Loser [2026-07-18 21:00]
+https://foxtv-app-panel.yallakoora.org/stream/%5BThird%20place%20play-off%5D%20Match%2098%20Loser%20vs%20Match%2099%20Loser%20%5B2026-07-18%2021%3A00%5D.ts
+#EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",[Final] Match 98 Winner vs Match 99 Winner [2026-07-19 21:00]
+https://foxtv-app-panel.yallakoora.org/stream/%5BFinal%5D%20Match%2098%20Winner%20vs%20Match%2099%20Winner%20%5B2026-07-19%2021%3A00%5D.ts
