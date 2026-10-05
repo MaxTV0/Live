@@ -1,5 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Arabic",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="ar",URI="https://thumb-v1.xhpingcdn.com/a/OT0_M7QHiyhnAh9O95bApQ/023/190/301/sw_ar_1.vtt.v1752063980"
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,SUBTITLES="subs"
+#EXTINF:-1 tvg-name="Video" group-title="",فيديو مع ترجمة عربية
+#EXTVLCOPT:sub-file=https://thumb-v1.xhpingcdn.com/a/OT0_M7QHiyhnAh9O95bApQ/023/190/301/sw_ar_1.vtt.v1752063980
 https://video-nss.xhpingcdn.com/PfW7i8AhTmkAP6dsCaL3Lg==,1791183600/media=hls4/multi=256x144:144p:,426x240:240p:,854x480:480p:,1280x720:720p:,1920x1080:1080p:/023/190/301/_TPL_.av1.mp4.m3u8
